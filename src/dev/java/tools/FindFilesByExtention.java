@@ -1,4 +1,4 @@
-package dev.java.sample;
+package dev.java.tools;
 import java.io.File;
 import java.io.FilenameFilter; 
 public class FindFilesByExtention {
