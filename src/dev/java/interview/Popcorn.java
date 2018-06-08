@@ -1,7 +1,7 @@
 package dev.java.interview;
 
 public class Popcorn {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		int i;
 		String finalvalue = "";
 		for (i = 1; i<=100; i++) {
