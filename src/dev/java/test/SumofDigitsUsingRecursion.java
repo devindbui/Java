@@ -1,4 +1,4 @@
-package dev.java.interview;
+package dev.java.test;
 
 //How to find the sum of digits of a number using recursion ?
 

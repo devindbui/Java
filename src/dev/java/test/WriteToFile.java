@@ -1,4 +1,4 @@
-package dev.java.interview;
+package dev.java.test;
 
 import java.io.PrintStream;
 import java.io.IOException;

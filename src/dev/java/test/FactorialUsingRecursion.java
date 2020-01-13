@@ -1,4 +1,4 @@
-package dev.java.interview;
+package dev.java.test;
 //package may not work
 
 public class FactorialUsingRecursion {

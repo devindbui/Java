@@ -1,4 +1,4 @@
-package dev.java.interview;
+package dev.java.test;
 
 public class Popcorn {
 	public static void main(String[] args) {

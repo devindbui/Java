@@ -1,4 +1,4 @@
-package dev.java.interview;
+package dev.java.test;
 
 
 //How to find factorial of a number using recursion ?
@@ -28,7 +28,7 @@ For example, we can recursion to find the factorial of number.
  
 Factorial of a number, n is expressed as n! and can be calculated as :
  
-n! = n * (n-1) * (n-2) … * 2 * 1
+n! = n * (n-1) * (n-2) ï¿½ * 2 * 1
  
 Lets first see how to calculate factorial without using recursion.
 **/

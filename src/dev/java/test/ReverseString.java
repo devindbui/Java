@@ -1,3 +1,5 @@
+package dev.java.test;
+
 public class ReverseString {
 
   public static void main(String[] args) {
