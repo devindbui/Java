@@ -6,14 +6,17 @@ public class ReverseLength {
     String value = "";
     System.out.println("Enter the string to be reversed");
 
-    Scanner input = new Scanner(System.in);
-    String original = input.nextLine();
+    
+    try (Scanner input = new Scanner(System.in)) {
+		String original = input.nextLine();
 
-    int length = original.length();
+		int length = original.length();
 
-    for (int x = length - 1; x >= 0; x--) {
-      value = value + original.charAt(x);
-    }
+		for (int x = length - 1; x >= 0; x--) {
+		  value = value + original.charAt(x);
+		}
+	}
+    
     System.out.println("Reverse = " + value);
   }
 }
